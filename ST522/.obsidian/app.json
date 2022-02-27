@@ -1,0 +1,11 @@
+{
+  "useMarkdownLinks": true,
+  "showFrontmatter": true,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "attachmentFolderPath": "Attachments",
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "relative"
+}
